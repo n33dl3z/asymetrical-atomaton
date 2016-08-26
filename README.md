@@ -13,7 +13,7 @@ working with the UI - buttons! i would even include hotkeys to this. from simply
 
 creating a maya project - this isn't as easy as it sounds to define. sure, file > new. but, you need to name it properly, you need to save it in several places, perhaps even different file types, on different computers, test it on multiple resolutions on multiple screens and i could probably go on.
 
-working with scene files - (this question doesn't match the video, they talked more about the last part ^) it is a good idea to save save save because this level of development, to be honest- presses boundaries. of which, can crash your computer. if it wasn't saved, all the work can easily be lost. it is good to know what the file is intended for before even starting, so you know how to present it.
+working with scene files - (this question doesn't match the video, they talked more about the last part ^) it is a good idea to save save save because this level of development, to be honest- presses boundaries. of which, can crash your computer. if it wasn't saved, all the work can easily be lost. it is good to know what the file is intended for before even starting, so you know how to present it and which file types are best.
 
 viewport shading and selection modes - we can shade our objects, work with the wireframe or both. we can select objects with various tools and can even select or deselect with a simple hotkey. it's important to be able to get as specific as possible on what you want to work on.
 
