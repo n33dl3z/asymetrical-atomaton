@@ -27,3 +27,17 @@ grouping and parenting in maya - we can group objects together to make them tran
 
 using the hotbox - this is a quick way to do almost anything on the interface with a universal hotkey function. this is a very nice work-around for the learning time of all the hotkeys, and seems to be one of those million-dollar-ideas to me.
 
+
+and my 2nd assignment is down here. (the models are in your canvas email, it's the only way i could get them to you.)
+
+Modeling section overview – making a mesh look like something specific
+Adding reference images – when these are used as a guide, it makes any differences between the original concept art and the 3d model easier to notice, which can help shape the object to what is intended.
+Creating the basic body shape – starting with a cube, we can bevel edges and use other tools to create a base to build our object out of. (in this case a plane.)
+Extruding out the wings – we can grab parts of the cube and extend them and then angle them to look like wings using the extrude tool.
+Finishing the wings – we can add copies of the wings to make things easier, to give ourselves tailfins and second wings. Don't forget the engines!
+Extruding up the top section – if we make a pattern on top that we could extrude and then shape, it may make the top section easier to create.
+Creating the canopy – we can make a new object and shape it into our canopy, or we can use the ever so useful extrude tool.
+Extruding the thruster compartment – again the extrude tool can help us to create our objects.
+Starting the front guard – you want to make sure that you don't use to many polygons for finishing it.
+Finishing the guard piece – add bevels and make the piece seem to be realistic.
+Modeling pieces between the wings – wings aren't attached in a straight line, they have a contour to the body of the plane, and we need to simulate it.
